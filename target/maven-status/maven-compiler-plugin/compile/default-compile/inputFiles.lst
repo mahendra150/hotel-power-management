@@ -1,0 +1,10 @@
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/Floor.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/Equipment.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/Corridor.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/AC.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/Light.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/MainCorridor.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/SubCorridor.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/service/HotelController.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/model/Hotel.java
+/home/ec2-user/hotel-power-management/src/main/java/com/hotel/Main.java
